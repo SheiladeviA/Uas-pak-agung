@@ -50,6 +50,6 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
 ![5](https://user-images.githubusercontent.com/46736071/80856751-cc4f4c80-8c76-11ea-829a-4bd30e447038.png)
 
-**Hasil**
+**Hasil mockup desain**
 
 ![Sheiladevi](https://user-images.githubusercontent.com/46736071/80856697-403d2500-8c76-11ea-912a-46dff9205ed9.png)
