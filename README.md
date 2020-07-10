@@ -56,4 +56,27 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
 **MOCKUP APLIKASI CRUD SEDERHANA**
 
+![APLIKASI CRUD](https://user-images.githubusercontent.com/46736071/87137744-43462a00-c252-11ea-84f8-2604233b17e2.png)
+
+**PHP & MYSQL (DATA BASE)**
+
+![PHP MYSQL](https://user-images.githubusercontent.com/46736071/87137786-50fbaf80-c252-11ea-9647-93427d2693d8.png)
+
+**Index.php ( Membuat APLIKASI CRUD SEDERHANA )**
+
+![indexphp1](https://user-images.githubusercontent.com/46736071/87138315-16464700-c253-11ea-8ada-21b4261471f6.png)
+
+![indexphp4](https://user-images.githubusercontent.com/46736071/87138342-1cd4be80-c253-11ea-9934-dbe9dfbb9813.png)
+
+![indexphp3](https://user-images.githubusercontent.com/46736071/87138336-1ba39180-c253-11ea-9d53-3b9f07091b39.png)
+
+![indexphp2](https://user-images.githubusercontent.com/46736071/87138324-18a8a100-c253-11ea-92c4-bb4062b49ae9.png)
+
+![indexphp5](https://user-images.githubusercontent.com/46736071/87138389-32e27f00-c253-11ea-8f4d-15f2e380afe8.png)
+
+**Koneksi.php ( Membuat APLIKASI CRUD SEDERHANA )**
+
+![koneksiphp](https://user-images.githubusercontent.com/46736071/87138397-3544d900-c253-11ea-88bd-0e7be0870f62.png)
+
+**SEKIAN DAN TERIMAKASIH :)**
 
