@@ -53,3 +53,7 @@ Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 **Hasil mockup desain**
 
 ![Sheiladevi](https://user-images.githubusercontent.com/46736071/80856697-403d2500-8c76-11ea-912a-46dff9205ed9.png)
+
+**MOCKUP APLIKASI CRUD SEDERHANA**
+
+
