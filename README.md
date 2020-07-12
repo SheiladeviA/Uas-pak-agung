@@ -6,6 +6,10 @@ NIM : 311810036
 
 Kelas : TI.18.A.3
 
+**LINK WEB HOSTING DASHBOARD**
+
+http://sheila69.epizy.com/
+
 Buatlah Aplikasi **CRUD** sederhana dengan ketentuan:
 
 **1.** Halaman HTML dan CSS berdasarkan mockup desain yang telah anda buat pada soal uts.
